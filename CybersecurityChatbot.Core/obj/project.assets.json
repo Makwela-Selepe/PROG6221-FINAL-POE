@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
+      "projectUniqueName": "C:\\Users\\IC\\Documents\\GitHub\\PROG6221-FINAL-POE\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
       "projectName": "CybersecurityChatbot.Core",
-      "projectPath": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
+      "projectPath": "C:\\Users\\IC\\Documents\\GitHub\\PROG6221-FINAL-POE\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
       "packagesPath": "C:\\Users\\IC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\obj\\",
+      "outputPath": "C:\\Users\\IC\\Documents\\GitHub\\PROG6221-FINAL-POE\\CybersecurityChatbot.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
