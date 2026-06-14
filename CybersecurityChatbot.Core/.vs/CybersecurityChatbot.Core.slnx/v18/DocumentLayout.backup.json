@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{684A84B9-B530-191A-B6F1-EF33A87D6A22}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\services\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:services\\chatbotengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684A84B9-B530-191A-B6F1-EF33A87D6A22}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BCC8CE-90FA-4D24-9792-A85C8995CF3A}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767B515F-0AB8-46E8-6FE6-9F0EDC37362F}|..\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\models\\chatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:models\\chatstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:models\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684A84B9-B530-191A-B6F1-EF33A87D6A22}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684A84B9-B530-191A-B6F1-EF33A87D6A22}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\services\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:services\\asciiart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{684A84B9-B530-191A-B6F1-EF33A87D6A22}|..\\CybersecurityChatbot.WinFormsApp\\CybersecurityChatbot.WinFormsApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.winformsapp\\mainform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\cybersecuritychatbot.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:cybersecuritychatbot.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767B515F-0AB8-46E8-6FE6-9F0EDC37362F}|..\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.consoleapp\\cybersecuritychatbot.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|c:\\users\\ic\\source\\repos\\cybersecuritychatbot.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C88A4512-30EF-8923-74A7-A9DCBA4F874D}|CybersecurityChatbot.Core.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs*",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs*",
+              "ViewState": "AgIAAOgCAAAAAAAAAAAQwBADAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:26:59.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatbotEngine.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Services\\ChatbotEngine.cs",
+              "RelativeDocumentMoniker": "Services\\ChatbotEngine.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Services\\ChatbotEngine.cs",
+              "RelativeToolTip": "Services\\ChatbotEngine.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwv6wAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:29:04.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-14T17:11:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:21:37.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\CybersecurityChatbot.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:20:48.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatState.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Models\\ChatState.cs",
+              "RelativeDocumentMoniker": "Models\\ChatState.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Models\\ChatState.cs",
+              "RelativeToolTip": "Models\\ChatState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:28:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Models\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Models\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Models\\UserProfile.cs",
+              "RelativeToolTip": "Models\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:27:54.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.Designer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAiwIoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:52:50.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\Program.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\Program.cs",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAowAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:47:16.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AsciiArt.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Services\\AsciiArt.cs",
+              "RelativeDocumentMoniker": "Services\\AsciiArt.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Services\\AsciiArt.cs",
+              "RelativeToolTip": "Services\\AsciiArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:28:39.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.resx",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.resx",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.resx",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.WinFormsApp\\MainForm.resx",
+              "RelativeToolTip": "..\\CybersecurityChatbot.WinFormsApp\\MainForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-13T22:52:59.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CybersecurityChatbot.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
+              "RelativeDocumentMoniker": "CybersecurityChatbot.Core.csproj",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\CybersecurityChatbot.Core.csproj",
+              "RelativeToolTip": "CybersecurityChatbot.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T22:50:36.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CybersecurityChatbot.ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj",
+              "RelativeToolTip": "..\\CybersecurityChatbot.ConsoleApp\\CybersecurityChatbot.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-13T22:50:07.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\IC\\source\\repos\\CybersecurityChatbot.Core\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:18:59.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
