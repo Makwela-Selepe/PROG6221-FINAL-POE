@@ -1,0 +1,11 @@
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\bin\Debug\net10.0\CybersecurityChatbot.Core.deps.json
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\bin\Debug\net10.0\CybersecurityChatbot.Core.dll
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\bin\Debug\net10.0\CybersecurityChatbot.Core.pdb
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.AssemblyInfoInputs.cache
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.AssemblyInfo.cs
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.csproj.CoreCompileInputs.cache
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.dll
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\refint\CybersecurityChatbot.Core.dll
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\CybersecurityChatbot.Core.pdb
+C:\Users\IC\source\repos\CybersecurityChatbot.Core\obj\Debug\net10.0\ref\CybersecurityChatbot.Core.dll

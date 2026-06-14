@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../CybersecurityChatbot.ConsoleApp/CybersecurityChatbot.ConsoleApp.csproj" />
+  <Project Path="../CybersecurityChatbot.WinFormsApp/CybersecurityChatbot.WinFormsApp.csproj" />
+  <Project Path="CybersecurityChatbot.Core.csproj" />
+</Solution>
