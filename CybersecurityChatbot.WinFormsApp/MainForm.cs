@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Linq;
 using System.Windows.Forms;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CybersecurityChatbot.WinFormsApp
 {
@@ -13,6 +15,9 @@ namespace CybersecurityChatbot.WinFormsApp
         private readonly List<CyberTask> tasks = new();
         private readonly List<QuizQuestion> quizQuestions = new();
 
+        private readonly Queue<string> botMessageQueue = new();
+        private bool isBotTyping = false;
+        private const int BotTypingSpeed = 20;
         private int currentQuestionIndex = 0;
         private int quizScore = 0;
         private bool quizActive = false;
@@ -774,7 +779,41 @@ namespace CybersecurityChatbot.WinFormsApp
 
         private void AddBotMessage(string message)
         {
-            chatBox.AppendText($"Chatbot: {message}{Environment.NewLine}{Environment.NewLine}");
+            botMessageQueue.Enqueue(message);
+
+            if (!isBotTyping)
+            {
+                _ = ProcessBotMessageQueue();
+            }
+        }
+
+        private async Task ProcessBotMessageQueue()
+        {
+            isBotTyping = true;
+
+            while (botMessageQueue.Count > 0)
+            {
+                string message = botMessageQueue.Dequeue();
+
+                chatBox.AppendText("Chatbot: ");
+
+                foreach (char letter in message)
+                {
+                    chatBox.AppendText(letter.ToString());
+                    chatBox.SelectionStart = chatBox.Text.Length;
+                    chatBox.ScrollToCaret();
+
+                    await Task.Delay(BotTypingSpeed);
+                }
+
+                chatBox.AppendText(Environment.NewLine + Environment.NewLine);
+                chatBox.SelectionStart = chatBox.Text.Length;
+                chatBox.ScrollToCaret();
+
+                await Task.Delay(250);
+            }
+
+            isBotTyping = false;
         }
 
         private void AddActivity(string action)
