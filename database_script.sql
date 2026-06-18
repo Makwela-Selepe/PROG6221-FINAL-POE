@@ -1,0 +1,18 @@
+CREATE DATABASE IF NOT EXISTS cybersecurity_chatbot_db;
+
+USE cybersecurity_chatbot_db;
+
+CREATE TABLE IF NOT EXISTS CyberTasks (
+    TaskId INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(255) NOT NULL,
+    Description TEXT,
+    ReminderText VARCHAR(255),
+    IsCompleted BOOLEAN DEFAULT FALSE,
+    CreatedAt DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
+CREATE TABLE IF NOT EXISTS ActivityLogs (
+    LogId INT AUTO_INCREMENT PRIMARY KEY,
+    ActionDescription TEXT NOT NULL,
+    CreatedAt DATETIME DEFAULT CURRENT_TIMESTAMP
+);
